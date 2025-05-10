@@ -53,3 +53,4 @@ Please ensure the following:
 - Images are square (1:1 ratio)
 - Max size around 512x512 px
 - Content is appropriate for public use
+# jellyfin-icon
